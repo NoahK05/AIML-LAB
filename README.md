@@ -10,4 +10,4 @@
 9.[LAB7](https://github.com/NoahK05/AIML-LAB/blob/main/LAB7.ipynb)
 10.[LAB8](https://github.com/NoahK05/AIML-LAB/blob/main/LAB8.ipynb)
 11.[LAB9](https://github.com/NoahK05/AIML-LAB/blob/main/LAB9.ipynb)
-12.[LAB10]()
+12.[LAB10](https://github.com/NoahK05/AIML-LAB/blob/main/A10.ipynb)
